@@ -1,2 +1,2 @@
-print("Hello, SKT FLY AI Challenger!")
+print("AI는 너무 재미있어")
 
