@@ -1,0 +1,2 @@
+print("Hello, SKT FLY AI Challenger!")
+
